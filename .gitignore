@@ -1,0 +1,22 @@
+# Large data files (GitHub 100MB limit)
+*.h5ad
+*.tar
+*.gz
+*.txt
+
+# Raw data directory
+raw_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
